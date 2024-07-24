@@ -1,0 +1,21 @@
+name: Point sur la carte
+
+icon: map
+
+fields:
+  label:
+    label: Label
+    type: text
+    required: true
+  lat:
+    label: Latitude
+    type: text
+    required: true
+  lon:
+    label: Longitude
+    type: text
+    required: true
+  zoom:
+    label: Zoom
+    type: text
+    required: true

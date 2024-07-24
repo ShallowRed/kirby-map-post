@@ -1,0 +1,10 @@
+{
+  "scripts/kirby-plugin.js": {
+    "css": [
+      "assets/kirby-plugin-5MT7J2c5.css"
+    ],
+    "file": "assets/kirby-plugin-iVXYwwie.js",
+    "isEntry": true,
+    "src": "scripts/kirby-plugin.js"
+  }
+}
