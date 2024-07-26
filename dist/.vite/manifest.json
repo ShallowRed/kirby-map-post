@@ -1,9 +1,9 @@
 {
   "scripts/kirby-plugin.js": {
     "css": [
-      "assets/kirby-plugin-Yyrk5KpB.css"
+      "assets/kirby-plugin-ZJRPpmKh.css"
     ],
-    "file": "assets/kirby-plugin-nHo7OnwJ.js",
+    "file": "assets/kirby-plugin-NVZKJ4Eh.js",
     "isEntry": true,
     "src": "scripts/kirby-plugin.js"
   }
