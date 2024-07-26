@@ -8,5 +8,6 @@
           <?php echo js($script);?>
         <?php endslot() ?>
       <?php endsnippet() ?>
+      <?php snippet('post-nav-to-top') ?>
   <?php endslot() ?>
 <?php endsnippet();
